@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+An Amazon Clone(Ez-Shop) app with Backend. App uses Javascript, Node, Express, MongoDB, Mongoose and Flutter. The app covers the complete UI of Amazon including features like auth with email/password, cart, searching products, fetching them based on category, rating them, fetching deal of the day, checking out using GPay/Apple Pay, viewing the orders, the details of the order along with their status which can be changed from the admin panel, view total sales and graph of sales based on category.
 
 A few resources to get you started if this is your first Flutter project:
 
